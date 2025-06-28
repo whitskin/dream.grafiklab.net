@@ -449,14 +449,14 @@ const contacts = [
   },
   {
     name: 'Email',
-    handle: 'dream41.net@gmail.com',
-    link: 'mailto:dream41.net@gmail.com',
+    handle: 'info@grafiklab.net',
+    link: 'mailto:info@grafiklab.net',
     iconComponent: EnvelopeIcon,
   },
   {
     name: 'GitHub',
-    handle: '@dream41-net',
-    link: 'https://github.com/dream41-net',
+    handle: '@whitskin',
+    link: 'https://github.com/whitskin',
   },
 ];
 
